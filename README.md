@@ -82,18 +82,6 @@ A two-player console game built using arrays, loops, functions, and game logic.
 
 🔗 https://github.com/karrivinay54/Tic-Tac-Toe
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=karrivinay54&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karrivinay54&layout=compact&theme=github_dark&hide_border=true"/>
-
-
-</p>
 
 ---
 
