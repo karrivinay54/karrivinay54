@@ -5,18 +5,18 @@ Electronics & Communication Engineering Student • C++ Developer • Machine Le
 </h3>
 
 <p align="center">
-I enjoy building practical software that solves real problems—from console applications in C++ to machine learning projects and embedded systems. I'm constantly learning, experimenting, and improving one project at a time.
+I enjoy building practical software—from C++ console applications to machine learning and embedded systems. I'm constantly learning, experimenting, and improving one project at a time.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 - 🎓 B.Tech in Electronics & Communication Engineering at **RGUKT IIIT Nuzvid**
 - 💻 Interested in **C++, Python, Machine Learning, and Embedded Systems**
 - 🌱 Currently improving my skills in **Data Structures, Machine Learning, and Software Development**
-- 🚀 I enjoy turning ideas into complete, well-documented projects
-- 📚 Always learning something new and building along the way
+-  I enjoy turning ideas into complete, well-documented projects
+-  Always learning something new and building along the way
 
 ---
 
@@ -43,26 +43,25 @@ I enjoy building practical software that solves real problems—from console app
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🎬 Movie Recommender
-Netflix-style movie recommendation system built using Machine Learning, Cosine Similarity, Streamlit, and the TMDB API.
+### 🎬 Netflix Movie Recommendation System
+Machine Learning • Streamlit • TMDB API
 
 🔗 https://github.com/karrivinay54/Movie_Recommender
 
 ---
 
 ### 📚 Library Management System
-
-Console-based Library Management System using C++, Object-Oriented Programming, and File Handling.
+C++ • OOP • File Handling
 
 🔗 https://github.com/karrivinay54/Library-Management-System
 
 ---
 
 ### 🏦 Bank Management System
+C++ • File Handling
 
-File-based Bank Management System implementing CRUD operations using C++.
 
 🔗 https://github.com/karrivinay54/Bank-Management-System
 
